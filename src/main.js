@@ -1,4 +1,4 @@
 import "./style.css";
-import { renderTodoUI } from "./src/dom.js";
+import { renderStaticUI } from "./dom";
 
-renderTodoUI();
+renderStaticUI();
